@@ -25,7 +25,7 @@ This project is an automation in **Selenium** that performs **WebScraping** of f
 - [Smtplib](https://docs.python.org/3/library/smtplib.html)
 - [Email](https://docs.python.org/3/library/email.html#module-email)
 
-### 🛠️ **Utilities** ([PostgreSQL](https://www.postgresql.org/docs/))
+### 🛠️ **Utilities** 
 
 - Compilers: **[Pycharm Community](https://www.jetbrains.com/pt-br/pycharm/)** 
 
