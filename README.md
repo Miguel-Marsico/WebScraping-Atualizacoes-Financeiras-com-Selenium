@@ -48,7 +48,7 @@ This project is an automation in **Selenium** that performs **WebScraping** of f
 
 ### Installing libraries:
 
-```
+```bash
  pip install selenium
 ```
 
@@ -57,11 +57,11 @@ This project is an automation in **Selenium** that performs **WebScraping** of f
 ### Library import:
 ```bash
  from selenium import webdriver
-  from selenium.webdriver.chrome.options import Options
-  from selenium.webdriver.common.by import By
-  import smtplib
-  from email.mime.text import MIMEText
-  from email.mime.multipart import MIMEMultipart
+ from selenium.webdriver.chrome.options import Options
+ from selenium.webdriver.common.by import By
+ imdport smtplib
+ from email.mime.text import MIMEText
+ from email.mime.multipart import MIMEMultipart
 ```
 
 ### Gmail configuration 📨
