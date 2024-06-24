@@ -5,7 +5,7 @@
 ![image](https://github.com/Miguel-Marsico/Financial-updates-with-selenium/assets/158609724/e294bd58-bb1c-4f3a-9d16-dde9d1dde450)
 ![image](https://github.com/Miguel-Marsico/Financial-updates-with-selenium/assets/158609724/dd436653-338a-45a1-aeb2-c33411ea8f69)
 
- ## 📋 Topics
+ ## 📋 Tópicos
 <div>
  • <a href="#-sobre">Sobre</a> </br>
  • <a href="#-ferramentas">Ferramentas</a> </br>
